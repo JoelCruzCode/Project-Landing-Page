@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+}
+
+.main-img {
+    width: 600px;
+}
+.information {
+    display: flex;
+    flex-direction: column
+}
+
+/* .info-img-container {
+    display: flex;
+} */
+
+.info-img {
+    width: 400px;
+    height: auto;
+}
+
+.quote-container {
+    display: flex;
+}
+
+.signup-container {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+}
